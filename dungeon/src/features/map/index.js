@@ -9,7 +9,7 @@ function Map (props) {
              left: '0px',
              width: '800px',
              height:'400px',
-             backgroundColor: 'green',
+             backgroundColor: 'grey',
              border: '4px solid white',
             
           }}
